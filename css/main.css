@@ -1,0 +1,37 @@
+.headsman {
+	height: 78px;
+	background-color: #cde;
+}
+
+a:link {
+	color: #333;
+}
+a:visited {
+	color: #333;
+}
+a:hover {
+	color: #b60;
+	text-decoration: none;
+}
+a:active {
+	color: #999;
+	text-decoration: none;
+}
+
+.bannerName {
+	font-family: 'Fredoka One', cursive;
+}
+
+.bannerInfo {
+	font-family: 'Fredoka One', cursive;
+	text-align: right;
+}
+
+.montserrat {
+	font-family: 'Montserrat Alternates', sans-serif;
+}
+
+/*body {
+	color: #333;
+}*/
+
