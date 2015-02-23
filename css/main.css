@@ -3,17 +3,19 @@
 	background-color: #cde;
 }
 
-a:link {
+.headsman a:link {
 	color: #333;
-}
-a:visited {
-	color: #333;
-}
-a:hover {
-	color: #b60;
 	text-decoration: none;
 }
-a:active {
+.headsman a:visited {
+	color: #333;
+	text-decoration: none;
+}
+.headsman a:hover {
+	color: #EA870F;
+	text-decoration: none;
+}
+.headsman a:active {
 	color: #999;
 	text-decoration: none;
 }
@@ -27,11 +29,70 @@ a:active {
 	text-align: right;
 }
 
-.montserrat {
+.homeName {
+	font-family: 'Fredoka One', cursive;
+	font-size: 140px;
+	height: 175px;
+	color: #EA870F;
+	margin-top: 100px;
+}
+.homeText {
 	font-family: 'Montserrat Alternates', sans-serif;
+	font-size: 20px;
+}
+.homeBtn {
+	font-size: 20px;
+	margin-bottom: 4px;
+	padding: 3px 6px;
+	background-color: #cde;
+	color: #333;
+}
+.homeBtn:hover {
+	color: #ea870f;
+}
+.activeHomeBtn {
+	font-size: 20px;
+	margin-bottom: 4px;
+	padding: 2px 5px;
+	background-color: #cde;
+	border: 2px solid #333;
+	color: #ea870f;
+}
+.activeHomeBtn a:link {
+	color: #ea870f;
+	text-decoration: none;
+}
+.activeHomeBtn a:visited {
+	color: #ea870f;
+	text-decoration: none;
+}
+.activeHomeBtn a:hover {
+	color: #ea870f;
+	text-decoration: none;
+}
+.activeHomeBtn a:active {
+	color: #ea870f;
+	text-decoration: none;
+}
+.btn a:link {
+	color: #333;
+	text-decoration: none;
+}
+.btn a:visited {
+	color: #333;
+	text-decoration: none;
+}
+.btn a:hover {
+	color: #EA870F;
+	text-decoration: none;
+}
+.btn a:active {
+	color: #999;
+	text-decoration: none;
 }
 
-/*body {
-	color: #333;
-}*/
+.navBar {
+	margin-top: 10px;
+}
+
 
