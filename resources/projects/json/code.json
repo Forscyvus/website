@@ -1,0 +1,26 @@
+[
+	{
+		"blurb": "A ray tracer written for a Graphics class",
+		"date": "Spring 2013",
+		"id": "rayTracer",
+		"name": "Ray Tracer"
+	},
+	{
+		"blurb": "A neural net agent for an AI class",
+		"date": "Fall 2013",
+		"id": "neuralNet",
+		"name": "Neural Network"
+	},
+	{
+		"blurb": "Triangle mesh generation and manipulation for a Graphics class",
+		"date": "Spring 2013",
+		"id": "triangleMeshes",
+		"name": "Triangle Meshes and Stuff"
+	},
+	{
+		"blurb": "A silly Twitter game for my friends",
+		"date": "2014 - Ongoing",
+		"id": "beamerBot",
+		"name": "Beamer Bot Game"
+	}
+]

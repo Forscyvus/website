@@ -1,0 +1,13 @@
+{
+	"categories": ["code", "games"],
+	"date": "2014 - ongoing",
+	"description": "One of my friends created a Twitter bot that tweets tweets constructed from another of my friends's tweets. Everyone in our friend group loves it, and it inspired me. I whipped out my old friend Python and created this twitter bot that stores tweets from ~30 of our friends and every hour tweets as one of them. The trick is that then anyone can guess who the tweet was generated from! This is still a work in progress but version one is up and running. (It probably hasn't crashed).",
+	"links": [
+		["https://github.com/Forscyvus/beamer-bot", "Source code on Github"],
+		["https://twitter.com/BeamerBot", "Play the game!"]
+	],
+	"name": "Beamer Bot Game",
+	"role": "Sole author",
+	"purpose": "Just for fun"
+	
+}

@@ -1,0 +1,12 @@
+{
+	"categories": ["code"],
+	"date": "Fall 2013",
+	"description": "The final assignment in my Intro to AI class at Georgia Tech was to implement a neural network. It analayzes boring datasets about cars and pens, but most importanly it actually learns what it's supposed to. I received full credit for my work.",
+	"links": [
+		["https://github.com/Forscyvus/neural-nets-CS3600-project4b", "Source code on Github"]
+	],
+	"name": "Neural Network",
+	"role": "Sole author given framework",
+	"purpose": "Assignment for CS3600 Intro to AI at Georgia Tech"
+	
+}

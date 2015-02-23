@@ -2,23 +2,6 @@ var portfolio = angular.module('portfolio', [
 	'ngRoute'
 	]);
 
-//routing reference
-// phonecatApp.config(['$routeProvider',
-//   function($routeProvider) {
-//     $routeProvider.
-//       when('/phones', {
-//         templateUrl: 'partials/phone-list.html',
-//         controller: 'PhoneListCtrl'
-//       }).
-//       when('/phones/:phoneId', {
-//         templateUrl: 'partials/phone-detail.html',
-//         controller: 'PhoneDetailCtrl'
-//       }).
-//       otherwise({
-//         redirectTo: '/phones'
-//       });
-//   }]);
-
 portfolio.config(['$routeProvider',
 	function($routeProvider) {
 		$routeProvider.
@@ -42,7 +25,10 @@ portfolio.config(['$routeProvider',
 				templateUrl: 'partials/other.html',
 				controller: 'otherController'
 			}).
-			//further when clauses
+			when('/project/:projectId', {
+				templateUrl: 'partials/project.html',
+				controller: 'projectController'
+			}).
 			otherwise({
 				redirectTo: '/home'
 			});
@@ -53,9 +39,16 @@ portfolio.controller('homeController', ['$scope',
 		$scope.breetz = "breetz";
 	}]);
 
-portfolio.controller('codeController', ['$scope',
-	function($scope) {
-		$scope.breetz = "breetz";
+portfolio.controller('codeController', ['$scope', '$http',
+	function($scope, $http) {
+		$scope.projects = [[],[],[]];
+		$http.get('resources/projects/json/code.json').success(function(data) {
+			for (var i = 0; i < data.length; i++) {
+				$scope.projects[i%3].push(data[i]);
+			}
+			
+		});
+		console.log($scope.projects);
 	}]);
 
 portfolio.controller('designController', ['$scope',
@@ -69,6 +62,11 @@ portfolio.controller('gamesController', ['$scope',
 	}]);
 
 portfolio.controller('otherController', ['$scope',
+	function($scope) {
+		$scope.breetz = "breetz";
+	}]);
+
+portfolio.controller('projectController', ['$scope',
 	function($scope) {
 		$scope.breetz = "breetz";
 	}]);

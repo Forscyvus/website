@@ -1,0 +1,13 @@
+{
+	"categories": ["code"],
+	"date": "Spring 2013",
+	"description": "One of the flagship assignments for Graphics at Tech is the Ray Tracer. I was given a framework in which to work that handled loading and reading scene files containing shapes and lights, and I was tasked with rendering the scene using ray tracing. My attempt turned out VERY well, earning a 100% on the assignment. I am particularly proud of the organization of the recursive part of the code, as I was able to start and finish it without much refactoring, and I had only minimal bugs.",
+	"links": [
+		["https://github.com/Forscyvus/ray-tracing-CS3451-project3", "Source code on Github"],
+		["http://www.cc.gatech.edu/~turk/cs3451_2013_spring/hw3/hw3.html", "Assignment description"]
+	],
+	"name": "Ray Tracer",
+	"role": "Sole author given framework",
+	"purpose": "Assignment for CS3451 Computer Graphics at Georgia Tech"
+	
+}
