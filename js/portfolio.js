@@ -41,32 +41,73 @@ portfolio.controller('homeController', ['$scope',
 
 portfolio.controller('codeController', ['$scope', '$http',
 	function($scope, $http) {
-		$scope.projects = [[],[],[]];
+		$scope.projects = [];
 		$http.get('resources/projects/json/code.json').success(function(data) {
+			var row = -1;
 			for (var i = 0; i < data.length; i++) {
-				$scope.projects[i%3].push(data[i]);
+				if (i % 3 == 0){
+					$scope.projects.push([]);
+					row++;
+				}
+				$scope.projects[row].push(data[i]);
 			}
-			
 		});
-		console.log($scope.projects);
 	}]);
 
-portfolio.controller('designController', ['$scope',
-	function($scope) {
-		$scope.breetz = "breetz";
+portfolio.controller('designController', ['$scope', '$http',
+	function($scope, $http) {
+		$scope.projects = [];
+		$http.get('resources/projects/json/design.json').success(function(data) {
+			var row = -1;
+			for (var i = 0; i < data.length; i++) {
+				if (i % 3 == 0){
+					$scope.projects.push([]);
+					row++;
+				}
+				$scope.projects[row].push(data[i]);
+			}
+		});
 	}]);
 
-portfolio.controller('gamesController', ['$scope',
-	function($scope) {
-		$scope.breetz = "breetz";
+portfolio.controller('gamesController', ['$scope', '$http',
+	function($scope, $http) {
+		$scope.projects = [];
+		$http.get('resources/projects/json/games.json').success(function(data) {
+			var row = -1;
+			for (var i = 0; i < data.length; i++) {
+				if (i % 3 == 0){
+					$scope.projects.push([]);
+					row++;
+				}
+				$scope.projects[row].push(data[i]);
+			}
+		});
 	}]);
 
-portfolio.controller('otherController', ['$scope',
-	function($scope) {
-		$scope.breetz = "breetz";
+portfolio.controller('otherController', ['$scope', '$http',
+	function($scope, $http) {
+		$scope.projects = [];
+		$http.get('resources/projects/json/other.json').success(function(data) {
+			var row = -1;
+			for (var i = 0; i < data.length; i++) {
+				if (i % 3 == 0){
+					$scope.projects.push([]);
+					row++;
+				}
+				$scope.projects[row].push(data[i]);
+			}
+		});
 	}]);
 
-portfolio.controller('projectController', ['$scope',
-	function($scope) {
-		$scope.breetz = "breetz";
+portfolio.controller('projectController', ['$scope', '$http', '$routeParams',
+	function($scope, $http, $routeParams) {
+		$scope.projectId = $routeParams.projectId;
+		$http.get('resources/projects/json/' + $scope.projectId + '.json').success(function(data) {
+			$scope.project = data;
+			$scope.currImage = data.images[0];
+			$scope.showImageRow = data.images.length > 1;
+		});
+		$scope.setImage = function(imageUrl) {
+			$scope.currImage = imageUrl;
+		};
 	}]);

@@ -23,4 +23,15 @@
 
 	</div>
 
+	<div class="row projectRow" ng-repeat="projectRow in projects">
+		<a href="#/project/{{project.id}}" ng-repeat="project in projectRow">
+			<div class="col-md-4 projectEntry">
+				<img ng-src={{project.thumb}} class="img-rounded thumb"/>
+				<p class="listProjectName">{{project.name}}</p>
+				<p class="listProjectDate">{{project.date}}</p>
+				<p class="listProjectBlurb">{{project.blurb}}</p>
+			</div>
+		</a>
+	</div>		
+
 </div>

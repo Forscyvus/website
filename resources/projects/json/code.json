@@ -3,24 +3,37 @@
 		"blurb": "A ray tracer written for a Graphics class",
 		"date": "Spring 2013",
 		"id": "rayTracer",
-		"name": "Ray Tracer"
+		"name": "Ray Tracer",
+		"thumb": "resources/projects/images/thumbs/test.png"
 	},
 	{
 		"blurb": "A neural net agent for an AI class",
 		"date": "Fall 2013",
 		"id": "neuralNet",
-		"name": "Neural Network"
+		"name": "Neural Network",
+		"thumb": "resources/projects/images/thumbs/test2.png"
 	},
 	{
-		"blurb": "Triangle mesh generation and manipulation for a Graphics class",
+		"blurb": "Mesh generation and manipulation for a Graphics class",
 		"date": "Spring 2013",
 		"id": "triangleMeshes",
-		"name": "Triangle Meshes and Stuff"
+		"name": "Triangle Meshes and Stuff",
+		"thumb": "resources/projects/images/thumbs/test2.png"
 	},
 	{
 		"blurb": "A silly Twitter game for my friends",
 		"date": "2014 - Ongoing",
 		"id": "beamerBot",
-		"name": "Beamer Bot Game"
+		"name": "Beamer Bot Game",
+		"thumb": "resources/projects/images/thumbs/test.png"
+	},
+	{
+		"id": "anyColor"
+	},
+	{
+		"id": "lanterma"
+	},
+	{
+		"id": "website"
 	}
 ]

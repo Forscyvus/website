@@ -7,7 +7,8 @@
 		["https://twitter.com/BeamerBot", "Play the game!"]
 	],
 	"name": "Beamer Bot Game",
+	"purpose": "Just for fun",
 	"role": "Sole author",
-	"purpose": "Just for fun"
+	"type": "Personal Project"
 	
 }

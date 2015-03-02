@@ -6,7 +6,8 @@
 		["https://github.com/Forscyvus/neural-nets-CS3600-project4b", "Source code on Github"]
 	],
 	"name": "Neural Network",
+	"purpose": "Assignment for CS3600 Intro to AI at Georgia Tech",
 	"role": "Sole author given framework",
-	"purpose": "Assignment for CS3600 Intro to AI at Georgia Tech"
+	"type": "Class Assignment"
 	
 }
