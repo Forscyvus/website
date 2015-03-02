@@ -2,6 +2,14 @@
 	"categories": ["code"],
 	"date": "Spring 2013",
 	"description": "The final assignment for my Graphics course at Georgia Tech was to manipulate triangle meshes. I had to accomplish a few tasks in this homework including interpreting and rendering a file of triangle coordinates, interpolation of normals, calculation of the dual of given shapes, and generation of a sphere using only triangles. I received full credit on this homework.",
+	"images": [
+		"resources/projects/images/meshes0.png",
+		"resources/projects/images/meshes1.png",
+		"resources/projects/images/meshes2.png",
+		"resources/projects/images/meshes3.png",
+		"resources/projects/images/meshes4.png",
+		"resources/projects/images/meshes5.png"
+	],
 	"links": [
 		["https://github.com/Forscyvus/triangle-meshes-and-stuff-CS3451-project5", "Source code on Github"],
 		["http://www.cc.gatech.edu/~turk/cs3451_2013_spring/hw5/hw5.html", "Assignment description"]

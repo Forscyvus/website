@@ -2,8 +2,13 @@
 	"categories": ["code"],
 	"date": "Fall 2013",
 	"description": "The final assignment in my Intro to AI class at Georgia Tech was to implement a neural network. It analayzes boring datasets about cars and pens, but most importanly it actually learns what it's supposed to. I received full credit for my work.",
+	"images": [
+		"resources/projects/images/neuralNet.gif"
+	],
 	"links": [
-		["https://github.com/Forscyvus/neural-nets-CS3600-project4b", "Source code on Github"]
+		["https://github.com/Forscyvus/neural-nets-CS3600-project4b", "Source code on Github"],
+		["https://github.com/Forscyvus/neural-nets-CS3600-project4b/blob/master/HW4bWriteup.pdf?raw=true", "Assignment Description"],
+		["https://drive.google.com/folderview?id=0B3EhnOxPEHLfR3lOcW96WkJIZXM&usp=sharing", "Writeup"]
 	],
 	"name": "Neural Network",
 	"purpose": "Assignment for CS3600 Intro to AI at Georgia Tech",

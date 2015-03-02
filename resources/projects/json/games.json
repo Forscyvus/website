@@ -1,7 +1,11 @@
 [
 
 	{
-		"id": "anyColor"
+		"blurb": "A game created for Global Game Jam 2014",
+		"date": "January 2014",
+		"id": "anyColor",
+		"name": "Any Color You Like",
+		"thumb": ""
 	},
 
 	{

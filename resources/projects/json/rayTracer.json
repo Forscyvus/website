@@ -1,10 +1,13 @@
 {
 	"categories": ["code"],
 	"date": "Spring 2013",
-	"description": "One of the flagship assignments for Graphics at Tech is the Ray Tracer. I was given a framework in which to work that handled loading and reading scene files containing shapes and lights, and I was tasked with rendering the scene using ray tracing. My attempt turned out VERY well, earning a 100% on the assignment. I am particularly proud of the organization of the recursive part of the code, as I was able to start and finish it without refactoring, and I had only minimal bugs.",
+	"description": "One of the flagship assignments for Graphics at Tech is the Ray Tracer. I was given a framework in which to work that handled loading and reading scene files containing shapes and lights, and I was tasked with rendering the scene using ray tracing. I am particularly proud of the organization of the recursive part of the code, as I was able to start and finish it without refactoring, and I had only minimal bugs.",
 	"images": [
-		"resources/projects/images/thumbs/test.png",
-		"resources/projects/images/thumbs/test2.png"
+		"resources/projects/images/rayTracer1.png",
+		"resources/projects/images/rayTracer0.png",
+		"resources/projects/images/rayTracer2.png",
+		"resources/projects/images/rayTracer3.png",
+		"resources/projects/images/rayTracer4.png"
 	],
 	"links": [
 		["https://github.com/Forscyvus/ray-tracing-CS3451-project3", "Source code on Github"],
