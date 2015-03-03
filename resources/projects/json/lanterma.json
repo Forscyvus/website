@@ -1,0 +1,22 @@
+{
+	"categories": ["code"],
+	"date": "Summer 2014",
+	"description": "This is a collection of work for CS 4803 Special Topics - GPU Programming at Georgia Tech. There are projects ranging from a simple graphics pipeline in Python to custom shaders in Unity (GLSL). This was mostly a for-fun class, and I sure had fun making dumb graphics things!",
+	"images": [
+		"resources/projects/images/lanterma0.png",
+		"resources/projects/images/lanterma1.png",
+		"resources/projects/images/lanterma2.png",
+		"resources/projects/images/lanterma3.png",
+		"resources/projects/images/lanterma4.png"
+
+	],
+	"links": [
+		["https://github.com/Forscyvus/cs4803-gpu-programming-lanterma.git", "Classwork code on Github"],
+		["http://users.ece.gatech.edu/lanterma/gpu14/", "Class website"]
+	],
+	"name": "CS4803 - GPU Programming",
+	"purpose": "Classwork",
+	"role": "Student Graphicsman",
+	"type": "Class Projects"
+	
+}

@@ -1,4 +1,11 @@
 [
-
+	
+	{
+		"blurb": "Background music for Sofa Slackers",
+		"date": "January 2015",
+		"id": "sofaBGM",
+		"name": "Sofa Slackers BGM",
+		"thumb": "resources/projects/images/thumbs/sofaSlackers.png"
+	}
 
 ]

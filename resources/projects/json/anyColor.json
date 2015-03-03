@@ -1,0 +1,22 @@
+{
+	"categories": ["code", "games"],
+	"date": "January 2014",
+	"description": "This is a game I helped make for the 2014 Global Game Jam. I worked with a team of four (two artists, two programmer/designers) to create this multiplayer arena battle game in the vein of Bomberman. The theme was 'We don't see things as they are; we see them as we want them to be.' We created a game wherein four players playing as an Industrialist, an Environmentalist, a Cultist, and an Arsonist are all attempting to convert an empty field into their preffered terrain (Factory, Meadow, Graveyard, and Smoldering Wasteland respectively). I served as lead programmer, writing most of the (terrible hackathon) code myself, including the implementation of the filling algorithm. Thanks to Stephanie Dykes, Rhys Saraceni, and Clay Anderson for being on the team!",
+	"images": [
+		"resources/projects/images/anyColor0.png",
+		"resources/projects/images/anyColor1.png",
+		"resources/projects/images/anyColor2.png",
+		"resources/projects/images/anyColor3.png"
+	],
+	"links": [
+		["https://github.com/Forscyvus/any-color-you-like", "Source code on Github"],
+		["http://globalgamejam.org/2014/games/any-color-you", "Global Game Jam entry page"],
+		["http://www.youtube.com/watch?v=-H6PQVDrtb8", "Global Game Jam entry video"],
+		["https://dl.dropboxusercontent.com/u/18673472/AnyColourYouLikeDeploy.html", "Play here! (Requires two controllers and two players on keyboard)"]
+	],
+	"name": "Any Color You Like",
+	"purpose": "Submission for the Global Game Jam 2014",
+	"role": "Designer, Lead Programmer",
+	"type": "Game Jam Entry"
+	
+}

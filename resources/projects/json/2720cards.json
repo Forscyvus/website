@@ -1,0 +1,18 @@
+{
+	"categories": ["design"],
+	"date": "Fall 2012",
+	"description": "In a design class at Georgia Tech, I was asked to create a logo and business cards for whatever purpose I choose. I chose a fictional Android development company.",
+	"images": [
+		"resources/projects/images/bundleb0.png",
+		"resources/projects/images/bundleb1.png",
+		"resources/projects/images/bundleb2.png",
+		"resources/projects/images/bundleb3.png"
+	],
+	"links": [
+	],
+	"name": "Logo and Business Cards",
+	"purpose": "Class Project",
+	"role": "Sole Designer",
+	"type": "Class Project"
+	
+}

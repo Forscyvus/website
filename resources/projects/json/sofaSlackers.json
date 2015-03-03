@@ -1,0 +1,20 @@
+{
+	"categories": ["code", "games", "design"],
+	"date": "January 2015",
+	"description": "This is a game I helped make for the 2015 Global Game Jam. Inspired by the theme 'What do we do now?', our team created a twist on the familiar 'match 3' genre of game. We envisioned two friends sitting bored on the couch, trying to decide what to do. Ideas fall from the ceiling, but if you ever match 3, game over! You've decided! Yes that's right, you have to STAY BORED. With a co-op mechanic inspired by Audiosurf, you and a friend can recreate those magical moments of aimlessness we all cherish so.",
+	"images": [
+		"resources/projects/images/sofa0.png",
+		"resources/projects/images/sofa1.png"
+	],
+	"links": [
+		["https://github.com/sdykes3/sofaSlackers", "Source code on Github"],
+		["http://globalgamejam.org/2015/games/sofa-slackers", "Global Game Jam entry page"],
+		["https://www.youtube.com/watch?v=N03Bvb29ChM", "Global Game Jam entry video"],
+		["https://dl.dropboxusercontent.com/u/62832883/SofaSlackers/publish2.html", "Play here!"]
+	],
+	"name": "Sofa Slackers",
+	"purpose": "Submission for the Global Game Jam 2015",
+	"role": "Designer, Programmer, Composer, Artist",
+	"type": "Game Jam Entry"
+	
+}

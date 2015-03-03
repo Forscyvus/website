@@ -1,16 +1,39 @@
 [
-
+	
 	{
-		"id": "website"
+		"blurb": "Logo and mockups for a group management Android app",
+		"date": "Ongoing",
+		"id": "formation",
+		"name": "Formation",
+		"thumb": "resources/projects/images/thumbs/formation.png"
 	},
 	{
-		"id": "2720cards"
+		"blurb": "A logo and three business cards for a design class",
+		"date": "Fall 2012",
+		"id": "2720cards",
+		"name": "Logo and Business Cards",
+		"thumb": "resources/projects/images/thumbs/cards.jpg"
 	},
 	{
-		"id": "2720poster"
+		"blurb": "A fake concert poster for a design class",
+		"date": "Fall 2012",
+		"id": "2720poster",
+		"name": "Concert Poster",
+		"thumb": "resources/projects/images/dangerousChemicals.jpg"
 	},
 	{
-		"id": "sofaSlackers"
+		"blurb": "A game created for Global Game Jam 2015",
+		"date": "January 2015",
+		"id": "sofaSlackers",
+		"name": "Sofa Slackers",
+		"thumb": "resources/projects/images/thumbs/sofaSlackers.png"
+	},
+	{
+		"blurb": "This very website",
+		"date": "Spring 2015",
+		"id": "website",
+		"name": "Personal Website",
+		"thumb": "resources/projects/images/thumbs/website.jpg"
 	}
 
 ]

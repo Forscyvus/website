@@ -1,3 +1,6 @@
+html {
+    overflow-y:scroll;
+}
 .headsman {
 	height: 78px;
 	background-color: #cde;

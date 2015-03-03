@@ -1,23 +1,19 @@
 [
 
-	{
+	{	
 		"blurb": "A game created for Global Game Jam 2014",
 		"date": "January 2014",
 		"id": "anyColor",
 		"name": "Any Color You Like",
-		"thumb": ""
+		"thumb": "resources/projects/images/thumbs/anyColor.png"
 	},
 
 	{
-		"id": "sofaSlackers"
-	},
-
-	{
-		"id": "CS4455"
-	},
-
-	{
-		"id": "2261Final"
+		"blurb": "A game created for Global Game Jam 2015",
+		"date": "January 2015",
+		"id": "sofaSlackers",
+		"name": "Sofa Slackers",
+		"thumb": "resources/projects/images/thumbs/sofaSlackers.png"
 	}
 
 ]

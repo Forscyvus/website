@@ -1,0 +1,17 @@
+{
+	"categories": ["code", "design"],
+	"date": "Spring 2015",
+	"description": "I needed a website, so I made one! Angular and Bootstrap are pretty fun!",
+	"images": [
+		"resources/projects/images/thumbs/website.jpg"
+	],
+	"links": [
+		["https://github.com/Forscyvus/website", "Source code on Github"],
+		["#/home", "Homepage"]
+	],
+	"name": "THIS WEBSITE",
+	"purpose": "Personal Project",
+	"role": "Angular Bootstrapper",
+	"type": "Personal Project"
+	
+}

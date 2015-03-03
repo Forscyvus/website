@@ -1,0 +1,17 @@
+{
+	"categories": ["other"],
+	"date": "January 2015",
+	"description": "I wanted to capture a lazy weekend afternoon in music with an 8-bit aesthetic, so I fired up Famitracker and composed this lazy 12-bar blues theme. The menu theme is just the bass and chords with the lead instrument removed.",
+	"images": [
+		"resources/projects/images/sofa1.png"
+	],
+	"links": [
+		["https://soundcloud.com/charles-blair-hancock/sofa-slackers-main-theme-1", "Listen to the main theme on Soundcloud"],
+		["https://soundcloud.com/charles-blair-hancock/sofa-slackers-main-theme", "Listen to the menu theme on Soundcloud"]
+	],
+	"name": "Sofa Slackers Background Music",
+	"purpose": "Personal Project",
+	"role": "Composer",
+	"type": "Personal Project"
+	
+}

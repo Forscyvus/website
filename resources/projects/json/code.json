@@ -27,6 +27,13 @@
 		"name": "Beamer Bot Game",
 		"thumb": "resources/projects/images/thumbs/merwin.jpg"
 	},
+	{
+		"blurb": "A game created for Global Game Jam 2015",
+		"date": "January 2015",
+		"id": "sofaSlackers",
+		"name": "Sofa Slackers",
+		"thumb": "resources/projects/images/thumbs/sofaSlackers.png"
+	},
 	{	
 		"blurb": "A game created for Global Game Jam 2014",
 		"date": "January 2014",
@@ -35,9 +42,17 @@
 		"thumb": "resources/projects/images/thumbs/anyColor.png"
 	},
 	{
-		"id": "lanterma"
+		"blurb": "A collection of projects for a GPU programming course",
+		"date": "Summer 2014",
+		"id": "lanterma",
+		"name": "Shaders 'n Things",
+		"thumb": "resources/projects/images/thumbs/lanterma.png"
 	},
 	{
-		"id": "website"
+		"blurb": "This very website",
+		"date": "Spring 2015",
+		"id": "website",
+		"name": "Personal Website",
+		"thumb": "resources/projects/images/thumbs/website.jpg"
 	}
 ]

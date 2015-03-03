@@ -1,0 +1,19 @@
+{
+	"categories": ["design"],
+	"date": "Ongoing",
+	"description": "I am in charge of UX/UI for my group's project for Senior Design at Georgia Tech, Formation. Formation is an Android app that allows groups of users to coordinate themselves geographically. The project is ongoing, but this is a logo and a series of UI mockups I created for the first sprint. I wanted something that felt trustworthy, as this app may be used by people doing important safety-related things such as chaperoning a bunch of schoolkids. Riffing on that as well as the name of the app itself, I chose to use a slightly military-tinged design. This is reflected in the choice of green as the primary color, the use of chevrons, and the dog-tag-shaped user card.",
+	"images": [
+		"resources/projects/images/formation0.png",
+		"resources/projects/images/formation1.png",
+		"resources/projects/images/formation2.png",
+		"resources/projects/images/formation3.png",
+		"resources/projects/images/formation4.png"
+	],
+	"links": [
+	],
+	"name": "Formation Concept Designs",
+	"purpose": "Class Project",
+	"role": "Sole Designer",
+	"type": "Class Project"
+	
+}
