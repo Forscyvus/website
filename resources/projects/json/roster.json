@@ -1,0 +1,20 @@
+{
+	"categories": ["design"],
+	"date": "Summer 2013/2014",
+	"description": "For my fraternity's rush website I created a little fighting-game style roster doodad to introduce the Brothers. Working with a few other artists, I made 32x32 pixelized portraits for everyone. I then hacked together a JS canvas to showcase them all together. Eventually I will go through and redo the webpage so that it's easier to work with and looks better, but I am really proud of my sprite work. On the actual site, you can see real pictures of the people to judge for yourself how well I did.",
+	"images": [
+		"resources/projects/images/roster0.png",
+		"resources/projects/images/roster1.png",
+		"resources/projects/images/roster2.png",
+		"resources/projects/images/roster3.png",
+		"resources/projects/images/roster4.png",
+		"resources/projects/images/roster5.png"
+	],
+	"links": [
+		["http://rush.psiugt.org/people", "View the live page on our rush website"]
+	],
+	"name": "Psi U Brother Roster",
+	"purpose": "Personal project for fraternity rush website",
+	"role": "Artist, Programmer",
+	"type": "Personal Project"
+}

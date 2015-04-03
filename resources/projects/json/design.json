@@ -8,18 +8,11 @@
 		"thumb": "resources/projects/images/thumbs/formation.png"
 	},
 	{
-		"blurb": "A logo and three business cards for a design class",
-		"date": "Fall 2012",
-		"id": "2720cards",
-		"name": "Logo and Business Cards",
-		"thumb": "resources/projects/images/thumbs/cards.jpg"
-	},
-	{
-		"blurb": "A fake concert poster for a design class",
-		"date": "Fall 2012",
-		"id": "2720poster",
-		"name": "Concert Poster",
-		"thumb": "resources/projects/images/dangerousChemicals.jpg"
+		"blurb": "A roster of Psi Upsilon Brothers for the rush website",
+		"date": "Summer 2013/2014",
+		"id": "roster",
+		"name": "Psi U Roster",
+		"thumb": "resources/projects/images/thumbs/roster0.png"
 	},
 	{
 		"blurb": "A game created for Global Game Jam 2015",
@@ -34,6 +27,27 @@
 		"id": "website",
 		"name": "Personal Website",
 		"thumb": "resources/projects/images/thumbs/website.jpg"
+	},
+	{
+		"blurb": "Three poster prototypes for a design class",
+		"date": "Spring 2013",
+		"id": "perceptionPoster",
+		"name": "Poster Designs",
+		"thumb": "resources/projects/images/thumbs/perceptionPoster.png"
+	},
+	{
+		"blurb": "A logo and three business cards for a design class",
+		"date": "Fall 2012",
+		"id": "2720cards",
+		"name": "Logo and Business Cards",
+		"thumb": "resources/projects/images/thumbs/cards.jpg"
+	},
+	{
+		"blurb": "A fake concert poster for a design class",
+		"date": "Fall 2012",
+		"id": "2720poster",
+		"name": "Concert Poster",
+		"thumb": "resources/projects/images/dangerousChemicals.jpg"
 	}
 
 ]

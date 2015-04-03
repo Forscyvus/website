@@ -1,0 +1,14 @@
+{
+	"categories": ["design"],
+	"date": "Spring 2013",
+	"description": "I was teamed up with one classmate to generate a series of poster ideas for some dummy information we were given. These are in my opinion the best ones to come out of that assignment. Only the first one was polished into a finished product. The other two aren't complete, but I'm fond of the ideas.",
+	"images": [
+		"resources/projects/images/perceptionPoster0.png",
+		"resources/projects/images/perceptionPoster1.png",
+		"resources/projects/images/perceptionPoster2.png"
+	],
+	"name": "Poster Designs",
+	"purpose": "Assignment for LMC3710 Intro to Interaction Design at Georgia Tech",
+	"role": "Designer",
+	"type": "Class Assignment"
+}
