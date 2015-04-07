@@ -1,0 +1,15 @@
+{
+	"categories": ["design"],
+	"date": "Fall 2013",
+	"description": "In my User Interfaces class at Georgia Tech, my group redesigned the control box for the lights and sirens in the Georgia Tech PD's police cars. We identified the problems with the current box, which you can find pictured above, which included difficulty to operate without looking, lack of natural mappings, and ease of triggering the wrong thing. We created two prototype designs as alternatives, one which would reside in the same space in the car, in the center console, and one that would be embedded in the steering wheel. In both we took care to use natural mappings for the directional indicators and the flood lights and moved the power button far away from the other controls. While these solutions may not be better for general baseline mass-produced equipment, officers in the GTPD themselves told us they'd prefer to use our design for their specific purposes.",
+	"images": [
+		"resources/projects/images/copcar0.png",
+		"resources/projects/images/copcar1.png",
+		"resources/projects/images/copcar2.jpg"
+	],
+	"name": "Lights and Sirens",
+	"purpose": "Assignment for CS3750 Intro to UI at Georgia Tech",
+	"role": "Team Member, Designer",
+	"type": "Class Assignment"
+	
+}

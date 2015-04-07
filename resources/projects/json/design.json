@@ -22,6 +22,13 @@
 		"thumb": "resources/projects/images/thumbs/sofaSlackers.png"
 	},
 	{
+		"blurb": "A redesign of the lights/sirens box in a police car",
+		"date": "Fall 2013",
+		"id": "copcar",
+		"name": "Lights and Sirens",
+		"thumb": "resources/projects/images/thumbs/copcar.png"
+	},
+	{
 		"blurb": "This very website",
 		"date": "Spring 2015",
 		"id": "website",
